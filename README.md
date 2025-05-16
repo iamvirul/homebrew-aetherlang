@@ -39,4 +39,4 @@ Both are downloaded from the [Releases](https://github.com/iamvirul/Aetherlang/r
 
 ## License
 
-MIT — see [LICENSE](https://github.com/iamvirul/Aetherlang/blob/main/LICENSE) for details.
+Licensed under the Aetherlang License (Non-Commercial) — see [LICENSE](https://github.com/iamvirul/Aetherlang/blob/main/LICENSE) for details.
